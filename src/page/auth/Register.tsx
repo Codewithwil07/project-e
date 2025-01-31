@@ -32,7 +32,7 @@ function Register() {
                             id="email"
                             name="email"
                             value={email}
-                            onChange={(e) => setEmail(e.target.value)}
+                            onChange={(e) => setnoTelp(e.target.value)}
                             className="w-full px-4 py-2 mt-2 border border-gray-300 rounded-md focus:ring-2 focus:ring-green-500"
                             placeholder="Enter your email"
                         />
