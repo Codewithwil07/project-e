@@ -1,0 +1,77 @@
+{
+  "pengajuan": [
+    {
+      "id": "1",
+      "nama": "XImak",
+      "nama_usaha": "Salon Kecantikan VVIP",
+      "deskripsi": "Salon Kecantikan dan operasi plastik",
+      "no_telp": "02928329",
+      "tanggal": "2024-01-05",
+      "status": "Ditolak"
+    },
+    {
+      "id": "2",
+      "nama": "Sabila",
+      "nama_usaha": "Warung Kopi Sejahtera",
+      "deskripsi": "Penyedia kopi premium lokal",
+      "no_telp": "081234567890",
+      "tanggal": "2024-01-06",
+      "status": "Diterima"
+    },
+    {
+      "id": "3",
+      "nama": "Agus",
+      "nama_usaha": "Toko Elektronik Jaya",
+      "deskripsi": "Jual berbagai alat elektronik",
+      "no_telp": "089876543210",
+      "tanggal": "2024-01-07",
+      "status": "Ditolak"
+    },
+    {
+      "id": "4",
+      "nama": "Dewi",
+      "nama_usaha": "Catering Nusantara",
+      "deskripsi": "Layanan catering untuk acara besar",
+      "no_telp": "085678912345",
+      "tanggal": "2024-01-08",
+      "status": "Diterima"
+    },
+    {
+      "id": "5",
+      "nama": "Budi",
+      "nama_usaha": "Bengkel Motor Hebat",
+      "deskripsi": "Servis motor terbaik",
+      "no_telp": "087654321098",
+      "tanggal": "2024-01-09",
+      "status": "Ditolak"
+    },
+    {
+      "id": "6",
+      "nama": "Sri",
+      "nama_usaha": "Butik Anggun",
+      "deskripsi": "Jual pakaian wanita elegan",
+      "no_telp": "081223344556",
+      "tanggal": "2024-01-10",
+      "status": "Diterima"
+    },
+    {
+      "id": "7",
+      "nama": "Fikri",
+      "nama_usaha": "Percetakan Cepat",
+      "deskripsi": "Layanan cetak dokumen dan desain",
+      "no_telp": "089912345678",
+      "tanggal": "2024-01-11",
+      "status": "Ditolak"
+    },
+
+    {
+      "id": "10",
+      "nama": "Aisyah",
+      "nama_usaha": "Salon Muslimah Aisyah",
+      "deskripsi": "Salon khusus muslimah dengan layanan lengkap",
+      "no_telp": "082334455667",
+      "tanggal": "2024-01-14",
+      "status": "Diterima"
+    }
+  ]
+}

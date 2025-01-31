@@ -1,0 +1,31 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+.btn-primary {
+    @apply px-4 py-2 bg-indigo-600 text-white font-medium rounded-lg shadow-md hover:bg-indigo-700 focus:outline-none focus:ring-2 focus:ring-indigo-400 transition duration-300;
+  }
+  
+  .btn-secondary {
+    @apply px-4 py-2 bg-gray-600 text-white font-medium rounded-lg shadow-md hover:bg-gray-700 focus:outline-none focus:ring-2 focus:ring-gray-400 transition duration-300;
+  }
+  
+  .btn-danger {
+    @apply px-4 py-2 bg-red-600 text-white font-medium rounded-lg shadow-md hover:bg-red-700 focus:outline-none focus:ring-2 focus:ring-red-400 transition duration-300;
+  }
+  
+  .btn-back {
+    @apply px-4 py-1 bg-green-600 text-white font-medium bg-transparent border-green-700 border-2 rounded-lg shadow-md hover:bg-green-700 focus:outline-none focus:ring-2 focus:ring-red-400 transition duration-300;
+  }
+  
+
+  /* Tambahkan efek transisi */
+.underline {
+  text-decoration: underline;
+  transition: color 0.3s ease;
+}
+
+.text-yellow-300 {
+  color: #fbbf24; /* Warna kuning */
+}
